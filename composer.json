@@ -1,0 +1,18 @@
+{
+  "name": "sameg14/microventures-backend-excercise",
+  "description": "Backend PHP stuff",
+  "require": {
+    "phpunit/phpunit": "^5.3"
+  },
+  "autoload": {
+    "psr-0": {
+      "": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Samir Patel",
+      "email": "sameg14@gmail.com"
+    }
+  ]
+}
